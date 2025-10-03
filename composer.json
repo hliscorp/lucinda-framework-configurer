@@ -36,5 +36,55 @@
     },
     "require-dev": {
         "hlis/unit-testing": "^1.0"
+    },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/errors-api"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/lucinda-framework-engine"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/php-internationalization-api"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/php-logging-api"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/migration"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/php-servlets-api"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/php-nosql-data-access-api"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/oauth2client"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/php-security-api"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/php-sql-data-access-api"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/unit-testing"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/hliscorp/php-view-language-api"
     }
+  ]
 }
