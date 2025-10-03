@@ -1,5 +1,5 @@
 {
-    "name": "lucinda/framework-configurer",
+    "name": "hlis/framework-configurer",
     "description": "Console step by step configurer for Lucinda Framework 3.0",
     "homepage": "https://github.com/aherne/lucinda-framework-configurer",
     "type": "library",
@@ -20,21 +20,21 @@
         "ext-simplexml": "*",    
         "ext-xml": "*",    
         "ext-readline": "*",    
-        "lucinda/framework-engine": "~3.0",
-        "lucinda/logging": "~4.0",
-        "lucinda/nosql-data-access": "~4.0",
-        "lucinda/oauth2-client": "~3.0",
-        "lucinda/security": "~4.0",
-        "lucinda/mvc": "~4.0",
-        "lucinda/sql-data-access": "~4.0",
-        "lucinda/view-language": "~4.0",
-        "lucinda/internationalization": "~4.0",
-        "lucinda/errors-mvc": "~3.0",
-        "lucinda/headers": "~2.0",
-        "lucinda/abstract_mvc": "~2.0",
-        "lucinda/migrations": "~2.0"
+        "hlis/framework-engine": "~3.0",
+        "hlis/logging": "~4.0",
+        "hlis/nosql-data-access": "~4.0",
+        "hlis/oauth2-client": "~3.0",
+        "hlis/security": "~4.0",
+        "hlis/mvc": "~4.0",
+        "hlis/sql-data-access": "~4.0",
+        "hlis/view-language": "~4.0",
+        "hlis/internationalization": "~4.0",
+        "hlis/errors-mvc": "~3.0",
+        "hlis/headers": "~2.0",
+        "hlis/abstract_mvc": "~2.0",
+        "hlis/migrations": "~2.0"
     },
     "require-dev": {
-        "lucinda/unit-testing": "^2.0"
+        "hlis/unit-testing": "^2.0"
     }
 }
