@@ -1,5 +1,5 @@
 {
-    "name": "hlis/framework-configurer",
+    "name": "lucinda/framework-configurer",
     "description": "Console step by step configurer for Lucinda Framework 2.0",
     "type": "library",
     "license": "MIT",
@@ -12,6 +12,6 @@
     "minimum-stability": "stable",
     "require": {
         "ext-simplexml": "*",
-        "ext-xml": "*"  
+        "ext-xml": "*"
     }
 }
